@@ -57,5 +57,11 @@
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); /* Bóng đổ nhỏ khi click */
   }
   
-  
+  @media (max-width: 480px) {
+    #promo-image {
+        max-width: 90%; /* gần full màn hình, trừ lề */
+        border-radius: 8px;
+    }
+}
+
   
