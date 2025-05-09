@@ -19,7 +19,7 @@
     box-shadow: 0 0 15px rgba(0,0,0,0.3);
   }
   #promo-image {
-    width: 400px;  /* hoặc 300px tùy bạn muốn nhỏ cỡ nào */
+    width: 60%;  /* hoặc 300px tùy bạn muốn nhỏ cỡ nào */
     height: auto;
     object-fit: cover;
     border-radius: 8px;
